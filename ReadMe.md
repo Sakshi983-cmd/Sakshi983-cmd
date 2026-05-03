@@ -27,7 +27,6 @@
 
 ---
 
-<!-- ABOUT ME — CODE STYLE -->
 ## 🧠 `whoami`
 
 ```python
@@ -48,7 +47,6 @@ class SakshiTiwari:
 
 ---
 
-<!-- PROJECTS SECTION -->
 ## 🚀 Projects — All Domains
 
 ### ⚡ Generative AI & LLM
@@ -80,7 +78,7 @@ class SakshiTiwari:
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sakshi983-cmd/AI-SUBTITLE-REFINE-VIDEO-PRO)
 
 ```
-🔹 OpenAI Whisper for transcription
+🔹 OpenAI Whisper transcription
 🔹 NLP post-processing pipeline
 🔹 LLM for human-like refinement
 🔹 Full GraphQL API integration
@@ -90,8 +88,6 @@ class SakshiTiwari:
 </td>
 </tr>
 </table>
-
----
 
 ### 🧠 NLP & Healthcare AI
 
@@ -133,8 +129,6 @@ class SakshiTiwari:
 </tr>
 </table>
 
----
-
 ### 🔍 ML & Data Science
 
 <table>
@@ -157,16 +151,15 @@ class SakshiTiwari:
 </td>
 <td width="50%" valign="top">
 
-#### 🗂️ + 28 More Projects
-> *Explore all repos*
+#### 🗂️ 28+ More Projects
 
 [![All](https://img.shields.io/badge/View_All_32+_Repos-a855f7?style=for-the-badge&logo=github)](https://github.com/Sakshi983-cmd?tab=repositories)
 
 ```
-🔹 Computer Vision projects 👁️
+🔹 Computer Vision 👁️
 🔹 Recommendation Systems 🎯
 🔹 Deep Learning (CNN, RNN) 🧬
-🔹 NLP pipelines 📝
+🔹 NLP Pipelines 📝
 🔹 End-to-end ML deployments 🚀
 ```
 
@@ -176,12 +169,11 @@ class SakshiTiwari:
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Core Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -219,47 +211,30 @@ class SakshiTiwari:
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshi983-cmd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi983-cmd&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
+  <br/><br/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi983-cmd&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi983-cmd&theme=tokyo-night&hide_border=true&area=true&custom_title=Sakshi's+Contribution+Activity"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi983-cmd&theme=tokyo-night&hide_border=true&area=true&custom_title=Sakshi's+Contribution+Activity"/>
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sakshi983-cmd/Sakshi983-cmd/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-> ⚙️ To enable the snake: Go to **Actions** tab → Enable workflows → The snake auto-generates daily!
-
----
-
-<!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -268,7 +243,6 @@ class SakshiTiwari:
 
 ---
 
-<!-- CURRENTLY BUILDING -->
 ## 🌱 Currently Building
 
 ```
@@ -280,12 +254,11 @@ class SakshiTiwari:
 
 ---
 
-<!-- CONNECT -->
 ## 🤝 Let's Connect
 
 <div align="center">
 
-**AI/ML roles · Internships · Freelance projects — all welcome!**
+**AI/ML roles · Internships · Freelance — all welcome!**
 
 If you're building something impactful with AI, **let's talk** 🚀
 
